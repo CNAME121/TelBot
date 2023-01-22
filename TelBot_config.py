@@ -1,5 +1,5 @@
 
-TOKEN = '5988870427:AAEUBQEbcsavZn_SJ8E-Vu52MJA2np-Sg8w'
+TOKEN = 'Ведите Ваш ТОКЕН'
 
 keys ={
     'биткоин': 'BTC',
